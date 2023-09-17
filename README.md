@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowadk25&label=Profile%20views&color=0e75b6&style=flat" alt="sowadk25" /> </p>
 
-- 🔭 I’m currently working on [s](s)
-
-- 🌱 I’m currently learning **s**
-
-- 👯 I’m looking to collaborate on [s](s)
-
-- 🤝 I’m looking for help with [s](s)
+- 🔭 I’m currently working at TD as a Mobile Software Engineer (Co-op)
 
 - 👨‍💻 Portfolio: [sowadk25.github.io](https://sowadk25.github.io/)
 
