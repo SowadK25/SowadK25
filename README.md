@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sowad</h1>
 <h3 align="center">UWaterloo CS Student</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowadk25&label=Profile%20views&color=0e75b6&style=flat" alt="sowadk25" /> </p>
 
-- 🔭 I’m currently working at TD as a Mobile Software Engineer (Co-op)
+- 🔭 Currently working at TD as a Mobile Software Engineer (Co-op)
 
 - 👨‍💻 Portfolio: [sowadk25.github.io](https://sowadk25.github.io/)
 
 - 📫 Email: **sowadkhan912@gmail.com**
 
 - 📄 Experiences: [LinkedIn](https://www.linkedin.com/in/sowad-khan-2645171a7/)
-
-- ⚡ Fun fact **s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
