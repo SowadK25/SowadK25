@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with [s](s)
 
-- 👨‍💻 All of my projects are available at [s](s)
+- 👨‍💻 Portfolio: [sowadk25.github.io](https://sowadk25.github.io/)
 
-- 📫 How to reach me **sowadkhan912@gmail.com**
+- 📫 Email: **sowadkhan912@gmail.com**
 
-- 📄 Experience [LinkedIn](https://www.linkedin.com/in/sowad-khan-2645171a7/)
+- 📄 Experiences: [LinkedIn](https://www.linkedin.com/in/sowad-khan-2645171a7/)
 
 - ⚡ Fun fact **s**
 
