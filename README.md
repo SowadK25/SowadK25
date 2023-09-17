@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sowadkhan912@gmail.com**
 
-- 📄 Experience [](https://www.linkedin.com/in/sowad-khan-2645171a7/)
+- 📄 Experience [LinkedIn](https://www.linkedin.com/in/sowad-khan-2645171a7/)
 
 - ⚡ Fun fact **s**
 
