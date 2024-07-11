@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowadk25&label=Profile%20views&color=0e75b6&style=flat" alt="sowadk25" /> </p>
 
-- 🔭 Currently working at TD as a Mobile Software Engineer (Co-op)
+- 🔭 Currently working at Geotab as a Full-stack software engineer (Co-op)
 
 - 👨‍💻 Portfolio: [sowadk25.github.io](https://sowadk25.github.io/)
 
